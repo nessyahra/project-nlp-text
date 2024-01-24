@@ -9,7 +9,6 @@ Original file is located at
 # **Proyek NLP LSTM**
 
 *   **Nama:** Venessa Yumadila Syahra
-*   **e-mail:** vyumadila@gmail.com
 *   **ID Dicoding:** nessasyahra
 """
 
